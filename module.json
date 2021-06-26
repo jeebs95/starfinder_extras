@@ -1,5 +1,5 @@
 {
-    "name": "starfinder_extras",
+    "name": "starfinder-extras",
     "title": "Starfinder Extras",
     "description": "Extra compendiums with Starfinder Content for easier setup. Society starships and later",
     "author": "jeebs",
@@ -12,14 +12,14 @@
             "label": "Starfinder Society Ships",
             "path": "packs/starfinder-society-ships.db",
             "entity": "Actor",
-            "module": "starfinder_extras"
+            "module": "starfinder-extras"
         },
         {
             "name": "sfs_summon_creatures",
             "label": "Starfinder Summon Creatures",
             "path": "packs/summon-creatures.db",
             "entity": "Actor",
-            "module": "starfinder_extras"
+            "module": "starfinder-extras"
         }
     ],
     "url": "https://github.com/jeebs95/starfinder_extras",
