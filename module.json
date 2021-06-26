@@ -1,0 +1,28 @@
+{
+    "name": "starfinder_extras",
+    "title": "Starfinder Extras",
+    "description": "Extra compendiums with Starfinder Content for easier setup. Society starships and later",
+    "author": "jeebs",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.8.6",
+    "packs": [
+        {
+            "name": "Starfinder Society Ships",
+            "label": "sfs_society_ships",
+            "path": "packs/starfinder-society-ships.db",
+            "entity": "Actor",
+            "module": "starfinder_extras"
+        },
+        {
+            "name": "Starfinder Summon Creatures",
+            "label": "sfs_summon_creatures",
+            "path": "packs/summon-creatures.db",
+            "entity": "Actor",
+            "module": "starfinder_extras"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
